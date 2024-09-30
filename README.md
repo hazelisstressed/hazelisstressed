@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AI ethics**
 
-- 📫 How to reach me **hhoga6@hotmail.com**
+- 📫 How to reach me **hello@hazelhogan.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hazel-hogan/](https://www.linkedin.com/in/hazel-hogan/)
 
