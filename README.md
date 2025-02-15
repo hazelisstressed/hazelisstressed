@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h3 align="center">Full time law/computer science student. Part time QA.</h3>
+<h3 align="center">Full time law/computer science student.</h3>
 
-- 🌱 I’m currently learning **C#, Python, HTML,CSS, Bootstrap, Typescript, Playwright**
+- 🌱 I’m currently learning **C#, Python, HTML,CSS, Bootstrap, Typescript**
 
 - 💬 Ask me about **AI ethics**
 
