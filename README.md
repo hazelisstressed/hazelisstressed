@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, Python, HTML,CSS, Bootstrap, Typescript**
 
-- 💬 Ask me about **AI ethics**
+- 💬 Ask me about **QUT Cybersecurity Club!**
 
 - 📫 How to reach me **hello@hazelhogan.dev**
 
